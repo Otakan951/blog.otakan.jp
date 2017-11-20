@@ -1,4 +1,4 @@
-#おっとあかん 
+# おっとあかん 
 named by @r8_gre
 
 Hexo + Netlifyなブログです
