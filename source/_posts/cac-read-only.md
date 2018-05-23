@@ -7,6 +7,8 @@ tags:
  - Ubuntu
 ---
 
+CaCならいつものこと…?
+<!-- more -->
 # CaCのサーバーがRead Onlyになった
 タイトルそのままです。突然SavaMoniからアラートが飛んできたので確認したら、Mastodonが動作しているサーバーが書き込み不可能になっていました。調べてみると一台の物理サーバーで動作している仮想サーバーが多すぎるためにI/Oがタイムアウトし、Read Onlyになってしまうんだとか。「何度も再起動すれば直るかも」と書いてあったので再起動を掛けましたが直る気配は無し。仕方がないのでCaCのサポートに連絡をしてみました。
 <iframe src="https://mstdn.maud.io/@Otakan951/99704072672203087/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400"></iframe><script src="https://mstdn.maud.io/embed.js" async="async"></script>
