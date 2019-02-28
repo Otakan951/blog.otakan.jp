@@ -83,4 +83,6 @@ VAAPIでエンコードしたら、出力結果が酷い。なんだこれ。発
 
 <iframe src="https://mstdn.maud.io/@Otakan951/101317756964583985/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400"></iframe><script src="https://mstdn.maud.io/embed.js" async="async"></script>
 
-速度は落ちたけど結果は正常なものになりました。CPUがCeleronなので、なんとかしたい問題です。
+速度は落ちたけど結果は正常なものになりました。~~CPUがCeleronなので、なんとかしたい問題です。~~
+
+なんとかなりました。[録画鯖で発生していたエンコ時のブロックノイズ問題が解決した](/2019/02/28/20190228-news/#録画鯖で発生していたエンコ時のブロックノイズ問題が解決した)
