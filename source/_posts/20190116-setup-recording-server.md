@@ -65,7 +65,7 @@ EPGStationの`config.json`の編集
 "recordedStartCommand": "/usr/bin/node <EPGS-to-Discord>/index.js start",
 "recordedEndCommand":"/usr/bin/node <EPGS-to-Discord>/index.js end",
 ```
-※<EPGS-to-Discord\>はEPGS-to-Discordのフルパス
+※ `<EPGS-to-Discord>` はEPGS-to-Discordのフルパス
 
 こんな感じに飛んできます。
 
