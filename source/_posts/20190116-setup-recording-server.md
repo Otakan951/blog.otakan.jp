@@ -4,6 +4,7 @@ date: 2019-01-16 18:49:41
 tags:
     - Server
     - Ubuntu
+    - 録画
 ---
 
 [録画サーバーを建てた](/2018/12/30/20181230-recording-server/) で購入したサーバー機に、Ubuntu Server 18.04 LTSを入れて録画サーバーにした話。
