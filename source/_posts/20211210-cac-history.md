@@ -1,6 +1,6 @@
 ---
 title: おたちょんを支える Cloud at Cost の昔と今
-date: 2021-12-10 23:39:49
+date: 2021-12-23 00:00:00
 tags:
     - Cloud at Cost
     - Server
