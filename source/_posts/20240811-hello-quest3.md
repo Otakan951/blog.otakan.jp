@@ -1,7 +1,10 @@
 ---
 title: Valve IndexからMeta Quest3に移行した話
-date: 2024-08-11 11:59:50
-tags:
+date: 2024-09-01 14:00:00
+tags: 
+    - VR
+    - Quest3
+    - PC
 ---
 Lighthouse環境を卒業できない俺達は。
 <!-- more -->
