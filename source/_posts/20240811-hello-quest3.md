@@ -87,7 +87,11 @@ PCとの接続後、Quest3のVirtual Desktopで以下のような表示がされ
 ## LighthouseとInside-out間のキャリブレーション
 最初に書いた通り、inside-out方式のQuest3は本来Lighthouse方式の機器と互換性がありません。
 この穴を埋めるために2方式の間で位置情報を同期するキャリブレーションを行いますが、そのために必要なソフトウェアがOpenVR-SpaceCalibratorです。
-[いくつかのFork](https://www.reddit.com/r/MixedVR/comments/19ay1bp/which_version_of_openvr_space_calibrator_should/)があるようですが、今は[hyblocker/OpenVR-SpaceCalibrator](https://github.com/hyblocker/OpenVR-SpaceCalibrator/releases/latest)を使えばいいみたいです。
+
+~~[いくつかのFork](https://www.reddit.com/r/MixedVR/comments/19ay1bp/which_version_of_openvr_space_calibrator_should/)があるようですが、今は[hyblocker/OpenVR-SpaceCalibrator](https://github.com/hyblocker/OpenVR-SpaceCalibrator/releases/latest)を使えばいいみたいです。~~
+2025/08/11追記
+今では最新のSpace CalibratorがSteamで公開されています。こちらの使用をおすすめします。
+<iframe src="https://store.steampowered.com/widget/3368750/" frameborder="0" width="646" height="190"></iframe>
 
 ダウンロードしたOpenVR-SpaceCalibrator.exeをインストールし、SteamVRのスタートアップとアドオン管理から「SpaceCalibrator」を有効化しましょう。
 {% asset_img steamSettings-SC.png%}
